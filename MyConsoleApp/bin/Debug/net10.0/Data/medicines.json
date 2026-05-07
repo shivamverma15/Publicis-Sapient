@@ -1,0 +1,92 @@
+[
+  {
+    "Id": "med-001",
+    "FullName": "Aspirin 100mg",
+    "Notes": "Pain reliever and fever reducer. Take with food. Do not use if allergic to salicylates.",
+    "ExpiryDate": "2026-05-28T00:00:00",
+    "Quantity": 149,
+    "Price": 8.99,
+    "Brand": "Bayer"
+  },
+  {
+    "Id": "med-002",
+    "FullName": "Paracetamol 500mg",
+    "Notes": "Analgesic and antipyretic. Do not exceed 4g per day. Keep out of reach of children.",
+    "ExpiryDate": "2027-03-15T00:00:00",
+    "Quantity": 5,
+    "Price": 5.50,
+    "Brand": "GSK"
+  },
+  {
+    "Id": "med-003",
+    "FullName": "Amoxicillin 250mg",
+    "Notes": "Antibiotic for bacterial infections. Complete the full course of treatment.",
+    "ExpiryDate": "2028-01-20T00:00:00",
+    "Quantity": 80,
+    "Price": 24.99,
+    "Brand": "Pfizer"
+  },
+  {
+    "Id": "med-004",
+    "FullName": "Ibuprofen 400mg",
+    "Notes": "Non-steroidal anti-inflammatory. Take after meals to reduce stomach irritation.",
+    "ExpiryDate": "2026-06-04T00:00:00",
+    "Quantity": 200,
+    "Price": 11.75,
+    "Brand": "Abbott"
+  },
+  {
+    "Id": "med-005",
+    "FullName": "Vitamin C 1000mg",
+    "Notes": "Immune support supplement. Safe for daily use.",
+    "ExpiryDate": "2027-08-30T00:00:00",
+    "Quantity": 8,
+    "Price": 15.00,
+    "Brand": "Centrum"
+  },
+  {
+    "Id": "med-006",
+    "FullName": "Cetirizine 10mg",
+    "Notes": "Antihistamine for allergy relief. May cause drowsiness.",
+    "ExpiryDate": "2027-11-10T00:00:00",
+    "Quantity": 120,
+    "Price": 18.25,
+    "Brand": "Cipla"
+  },
+  {
+    "Id": "med-007",
+    "FullName": "Metformin 500mg",
+    "Notes": "For type 2 diabetes management. Take with meals to reduce GI side effects.",
+    "ExpiryDate": "2026-05-22T00:00:00",
+    "Quantity": 7,
+    "Price": 30.00,
+    "Brand": "Sun Pharma"
+  },
+  {
+    "Id": "med-008",
+    "FullName": "Omeprazole 20mg",
+    "Notes": "Proton pump inhibitor for acid reflux and GERD. Take 30 minutes before meals.",
+    "ExpiryDate": "2028-06-15T00:00:00",
+    "Quantity": 60,
+    "Price": 22.50,
+    "Brand": "AstraZeneca"
+  },
+  {
+    "Id": "med-009",
+    "FullName": "Atorvastatin 10mg",
+    "Notes": "For cholesterol management. Take at the same time each day.",
+    "ExpiryDate": "2029-02-28T00:00:00",
+    "Quantity": 90,
+    "Price": 35.00,
+    "Brand": "Pfizer"
+  },
+  {
+    "Id": "med-010",
+    "FullName": "Azithromycin 500mg",
+    "Notes": "Broad-spectrum antibiotic. Take on empty stomach.",
+    "ExpiryDate": "2026-06-02T00:00:00",
+    "Quantity": 3,
+    "Price": 45.00,
+    "Brand": "Cipla"
+  }
+]

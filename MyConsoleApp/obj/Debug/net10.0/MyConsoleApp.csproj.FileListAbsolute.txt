@@ -1,0 +1,104 @@
+C:\Users\Shivam.x.Verma\Downloads\publicis sapient\MyConsoleApp\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\Shivam.x.Verma\Downloads\publicis sapient\MyConsoleApp\bin\Debug\net10.0\appsettings.json
+C:\Users\Shivam.x.Verma\Downloads\publicis sapient\MyConsoleApp\bin\Debug\net10.0\Data\medicines.json
+C:\Users\Shivam.x.Verma\Downloads\publicis sapient\MyConsoleApp\bin\Debug\net10.0\Data\sales.json
+C:\Users\Shivam.x.Verma\Downloads\publicis sapient\MyConsoleApp\bin\Debug\net10.0\MyConsoleApp.staticwebassets.runtime.json
+C:\Users\Shivam.x.Verma\Downloads\publicis sapient\MyConsoleApp\bin\Debug\net10.0\MyConsoleApp.staticwebassets.endpoints.json
+C:\Users\Shivam.x.Verma\Downloads\publicis sapient\MyConsoleApp\bin\Debug\net10.0\MyConsoleApp.exe
+C:\Users\Shivam.x.Verma\Downloads\publicis sapient\MyConsoleApp\bin\Debug\net10.0\MyConsoleApp.deps.json
+C:\Users\Shivam.x.Verma\Downloads\publicis sapient\MyConsoleApp\bin\Debug\net10.0\MyConsoleApp.runtimeconfig.json
+C:\Users\Shivam.x.Verma\Downloads\publicis sapient\MyConsoleApp\bin\Debug\net10.0\MyConsoleApp.dll
+C:\Users\Shivam.x.Verma\Downloads\publicis sapient\MyConsoleApp\bin\Debug\net10.0\MyConsoleApp.pdb
+C:\Users\Shivam.x.Verma\Downloads\publicis sapient\MyConsoleApp\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\Shivam.x.Verma\Downloads\publicis sapient\MyConsoleApp\obj\Debug\net10.0\MyConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shivam.x.Verma\Downloads\publicis sapient\MyConsoleApp\obj\Debug\net10.0\MyConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Shivam.x.Verma\Downloads\publicis sapient\MyConsoleApp\obj\Debug\net10.0\MyConsoleApp.AssemblyInfo.cs
+C:\Users\Shivam.x.Verma\Downloads\publicis sapient\MyConsoleApp\obj\Debug\net10.0\MyConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Shivam.x.Verma\Downloads\publicis sapient\MyConsoleApp\obj\Debug\net10.0\MyConsoleApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Shivam.x.Verma\Downloads\publicis sapient\MyConsoleApp\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\Shivam.x.Verma\Downloads\publicis sapient\MyConsoleApp\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\Shivam.x.Verma\Downloads\publicis sapient\MyConsoleApp\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\Shivam.x.Verma\Downloads\publicis sapient\MyConsoleApp\obj\Debug\net10.0\scopedcss\bundle\MyConsoleApp.styles.css
+C:\Users\Shivam.x.Verma\Downloads\publicis sapient\MyConsoleApp\obj\Debug\net10.0\compressed\yp2bhgpd4b-{0}-b7hue6ppga-b7hue6ppga.gz
+C:\Users\Shivam.x.Verma\Downloads\publicis sapient\MyConsoleApp\obj\Debug\net10.0\compressed\h63nc5e9ri-{0}-jz8pgyuhh3-jz8pgyuhh3.gz
+C:\Users\Shivam.x.Verma\Downloads\publicis sapient\MyConsoleApp\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\Shivam.x.Verma\Downloads\publicis sapient\MyConsoleApp\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\Shivam.x.Verma\Downloads\publicis sapient\MyConsoleApp\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\Shivam.x.Verma\Downloads\publicis sapient\MyConsoleApp\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\Shivam.x.Verma\Downloads\publicis sapient\MyConsoleApp\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\Shivam.x.Verma\Downloads\publicis sapient\MyConsoleApp\obj\Debug\net10.0\MyConsoleApp.dll
+C:\Users\Shivam.x.Verma\Downloads\publicis sapient\MyConsoleApp\obj\Debug\net10.0\refint\MyConsoleApp.dll
+C:\Users\Shivam.x.Verma\Downloads\publicis sapient\MyConsoleApp\obj\Debug\net10.0\MyConsoleApp.pdb
+C:\Users\Shivam.x.Verma\Downloads\publicis sapient\MyConsoleApp\obj\Debug\net10.0\MyConsoleApp.genruntimeconfig.cache
+C:\Users\Shivam.x.Verma\Downloads\publicis sapient\MyConsoleApp\obj\Debug\net10.0\ref\MyConsoleApp.dll
+C:\Users\Shivam.x.Verma\Downloads\publicis sapient\MyConsoleApp\obj\Debug\net10.0\compressed\p0w2q60brf-{0}-fy4qetjudf-fy4qetjudf.gz
+C:\Users\Shivam\Downloads\publicis sapient\publicis sapient\MyConsoleApp\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\Shivam\Downloads\publicis sapient\publicis sapient\MyConsoleApp\bin\Debug\net10.0\appsettings.json
+C:\Users\Shivam\Downloads\publicis sapient\publicis sapient\MyConsoleApp\bin\Debug\net10.0\Data\medicines.json
+C:\Users\Shivam\Downloads\publicis sapient\publicis sapient\MyConsoleApp\bin\Debug\net10.0\Data\sales.json
+C:\Users\Shivam\Downloads\publicis sapient\publicis sapient\MyConsoleApp\bin\Debug\net10.0\MyConsoleApp.staticwebassets.runtime.json
+C:\Users\Shivam\Downloads\publicis sapient\publicis sapient\MyConsoleApp\bin\Debug\net10.0\MyConsoleApp.staticwebassets.endpoints.json
+C:\Users\Shivam\Downloads\publicis sapient\publicis sapient\MyConsoleApp\bin\Debug\net10.0\MyConsoleApp.exe
+C:\Users\Shivam\Downloads\publicis sapient\publicis sapient\MyConsoleApp\bin\Debug\net10.0\MyConsoleApp.deps.json
+C:\Users\Shivam\Downloads\publicis sapient\publicis sapient\MyConsoleApp\bin\Debug\net10.0\MyConsoleApp.runtimeconfig.json
+C:\Users\Shivam\Downloads\publicis sapient\publicis sapient\MyConsoleApp\bin\Debug\net10.0\MyConsoleApp.dll
+C:\Users\Shivam\Downloads\publicis sapient\publicis sapient\MyConsoleApp\bin\Debug\net10.0\MyConsoleApp.pdb
+C:\Users\Shivam\Downloads\publicis sapient\publicis sapient\MyConsoleApp\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\Shivam\Downloads\publicis sapient\publicis sapient\MyConsoleApp\obj\Debug\net10.0\MyConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shivam\Downloads\publicis sapient\publicis sapient\MyConsoleApp\obj\Debug\net10.0\MyConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Shivam\Downloads\publicis sapient\publicis sapient\MyConsoleApp\obj\Debug\net10.0\MyConsoleApp.AssemblyInfo.cs
+C:\Users\Shivam\Downloads\publicis sapient\publicis sapient\MyConsoleApp\obj\Debug\net10.0\MyConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Shivam\Downloads\publicis sapient\publicis sapient\MyConsoleApp\obj\Debug\net10.0\MyConsoleApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Shivam\Downloads\publicis sapient\publicis sapient\MyConsoleApp\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\Shivam\Downloads\publicis sapient\publicis sapient\MyConsoleApp\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\Shivam\Downloads\publicis sapient\publicis sapient\MyConsoleApp\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\Shivam\Downloads\publicis sapient\publicis sapient\MyConsoleApp\obj\Debug\net10.0\scopedcss\bundle\MyConsoleApp.styles.css
+C:\Users\Shivam\Downloads\publicis sapient\publicis sapient\MyConsoleApp\obj\Debug\net10.0\compressed\yp2bhgpd4b-{0}-b7hue6ppga-b7hue6ppga.gz
+C:\Users\Shivam\Downloads\publicis sapient\publicis sapient\MyConsoleApp\obj\Debug\net10.0\compressed\h63nc5e9ri-{0}-jz8pgyuhh3-jz8pgyuhh3.gz
+C:\Users\Shivam\Downloads\publicis sapient\publicis sapient\MyConsoleApp\obj\Debug\net10.0\compressed\p0w2q60brf-{0}-fy4qetjudf-fy4qetjudf.gz
+C:\Users\Shivam\Downloads\publicis sapient\publicis sapient\MyConsoleApp\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\Shivam\Downloads\publicis sapient\publicis sapient\MyConsoleApp\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\Shivam\Downloads\publicis sapient\publicis sapient\MyConsoleApp\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\Shivam\Downloads\publicis sapient\publicis sapient\MyConsoleApp\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\Shivam\Downloads\publicis sapient\publicis sapient\MyConsoleApp\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\Shivam\Downloads\publicis sapient\publicis sapient\MyConsoleApp\obj\Debug\net10.0\MyConsoleApp.dll
+C:\Users\Shivam\Downloads\publicis sapient\publicis sapient\MyConsoleApp\obj\Debug\net10.0\refint\MyConsoleApp.dll
+C:\Users\Shivam\Downloads\publicis sapient\publicis sapient\MyConsoleApp\obj\Debug\net10.0\MyConsoleApp.pdb
+C:\Users\Shivam\Downloads\publicis sapient\publicis sapient\MyConsoleApp\obj\Debug\net10.0\MyConsoleApp.genruntimeconfig.cache
+C:\Users\Shivam\Downloads\publicis sapient\publicis sapient\MyConsoleApp\obj\Debug\net10.0\ref\MyConsoleApp.dll
+C:\Users\Shivam\source\repos\Publicis-Sapient\MyConsoleApp\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\Shivam\source\repos\Publicis-Sapient\MyConsoleApp\bin\Debug\net10.0\appsettings.json
+C:\Users\Shivam\source\repos\Publicis-Sapient\MyConsoleApp\bin\Debug\net10.0\MyConsoleApp.staticwebassets.endpoints.json
+C:\Users\Shivam\source\repos\Publicis-Sapient\MyConsoleApp\bin\Debug\net10.0\Data\medicines.json
+C:\Users\Shivam\source\repos\Publicis-Sapient\MyConsoleApp\bin\Debug\net10.0\Data\sales.json
+C:\Users\Shivam\source\repos\Publicis-Sapient\MyConsoleApp\bin\Debug\net10.0\MyConsoleApp.staticwebassets.runtime.json
+C:\Users\Shivam\source\repos\Publicis-Sapient\MyConsoleApp\bin\Debug\net10.0\MyConsoleApp.exe
+C:\Users\Shivam\source\repos\Publicis-Sapient\MyConsoleApp\bin\Debug\net10.0\MyConsoleApp.deps.json
+C:\Users\Shivam\source\repos\Publicis-Sapient\MyConsoleApp\bin\Debug\net10.0\MyConsoleApp.runtimeconfig.json
+C:\Users\Shivam\source\repos\Publicis-Sapient\MyConsoleApp\bin\Debug\net10.0\MyConsoleApp.dll
+C:\Users\Shivam\source\repos\Publicis-Sapient\MyConsoleApp\bin\Debug\net10.0\MyConsoleApp.pdb
+C:\Users\Shivam\source\repos\Publicis-Sapient\MyConsoleApp\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\Shivam\source\repos\Publicis-Sapient\MyConsoleApp\obj\Debug\net10.0\MyConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shivam\source\repos\Publicis-Sapient\MyConsoleApp\obj\Debug\net10.0\MyConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Shivam\source\repos\Publicis-Sapient\MyConsoleApp\obj\Debug\net10.0\MyConsoleApp.AssemblyInfo.cs
+C:\Users\Shivam\source\repos\Publicis-Sapient\MyConsoleApp\obj\Debug\net10.0\MyConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Shivam\source\repos\Publicis-Sapient\MyConsoleApp\obj\Debug\net10.0\MyConsoleApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Shivam\source\repos\Publicis-Sapient\MyConsoleApp\obj\Debug\net10.0\MyConsoleApp.sourcelink.json
+C:\Users\Shivam\source\repos\Publicis-Sapient\MyConsoleApp\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\Shivam\source\repos\Publicis-Sapient\MyConsoleApp\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\Shivam\source\repos\Publicis-Sapient\MyConsoleApp\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\Shivam\source\repos\Publicis-Sapient\MyConsoleApp\obj\Debug\net10.0\scopedcss\bundle\MyConsoleApp.styles.css
+C:\Users\Shivam\source\repos\Publicis-Sapient\MyConsoleApp\obj\Debug\net10.0\compressed\yp2bhgpd4b-{0}-b7hue6ppga-b7hue6ppga.gz
+C:\Users\Shivam\source\repos\Publicis-Sapient\MyConsoleApp\obj\Debug\net10.0\compressed\h63nc5e9ri-{0}-jz8pgyuhh3-jz8pgyuhh3.gz
+C:\Users\Shivam\source\repos\Publicis-Sapient\MyConsoleApp\obj\Debug\net10.0\compressed\p0w2q60brf-{0}-fy4qetjudf-fy4qetjudf.gz
+C:\Users\Shivam\source\repos\Publicis-Sapient\MyConsoleApp\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\Shivam\source\repos\Publicis-Sapient\MyConsoleApp\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\Shivam\source\repos\Publicis-Sapient\MyConsoleApp\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\Shivam\source\repos\Publicis-Sapient\MyConsoleApp\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\Shivam\source\repos\Publicis-Sapient\MyConsoleApp\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\Shivam\source\repos\Publicis-Sapient\MyConsoleApp\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\Shivam\source\repos\Publicis-Sapient\MyConsoleApp\obj\Debug\net10.0\MyConsoleApp.dll
+C:\Users\Shivam\source\repos\Publicis-Sapient\MyConsoleApp\obj\Debug\net10.0\refint\MyConsoleApp.dll
+C:\Users\Shivam\source\repos\Publicis-Sapient\MyConsoleApp\obj\Debug\net10.0\MyConsoleApp.pdb
+C:\Users\Shivam\source\repos\Publicis-Sapient\MyConsoleApp\obj\Debug\net10.0\MyConsoleApp.genruntimeconfig.cache
+C:\Users\Shivam\source\repos\Publicis-Sapient\MyConsoleApp\obj\Debug\net10.0\ref\MyConsoleApp.dll

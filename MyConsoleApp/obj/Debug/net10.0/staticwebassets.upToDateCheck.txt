@@ -1,0 +1,6 @@
+wwwroot\css\styles.css
+wwwroot\index.html
+wwwroot\js\app.js
+C:\Users\Shivam\source\repos\Publicis-Sapient\MyConsoleApp\wwwroot\css\styles.css
+C:\Users\Shivam\source\repos\Publicis-Sapient\MyConsoleApp\wwwroot\index.html
+C:\Users\Shivam\source\repos\Publicis-Sapient\MyConsoleApp\wwwroot\js\app.js

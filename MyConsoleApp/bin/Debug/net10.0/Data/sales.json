@@ -1,0 +1,12 @@
+[
+  {
+    "Id": "2d57bb8f-cd3f-4ce2-9b11-f9094b1f0421",
+    "MedicineId": "med-001",
+    "MedicineName": "Aspirin 100mg",
+    "Brand": "Bayer",
+    "QuantitySold": 1,
+    "SaleDate": "2026-05-07T20:52:25.6599384+05:30",
+    "UnitPrice": 8.99,
+    "TotalAmount": 8.99
+  }
+]

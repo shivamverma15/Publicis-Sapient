@@ -1,0 +1,98 @@
+/* ── General ── */
+body {
+  background-color: #f0f4f8;
+  font-family: 'Segoe UI', system-ui, sans-serif;
+}
+
+/* ── Navbar ── */
+.navbar {
+  background: linear-gradient(135deg, #0d6efd 0%, #0a58ca 100%) !important;
+}
+
+/* ── Tabs ── */
+.nav-tabs .nav-link {
+  color: #495057;
+  border-bottom: 2px solid transparent;
+  transition: color 0.2s, border-color 0.2s;
+}
+.nav-tabs .nav-link:hover {
+  color: #0d6efd;
+  border-bottom-color: #0d6efd;
+}
+.nav-tabs .nav-link.active {
+  color: #0d6efd;
+  border-bottom: 2px solid #0d6efd;
+  font-weight: 600;
+  background: transparent;
+}
+
+/* ── Tab pane fade-in ── */
+.tab-pane {
+  animation: fadeSlideIn 0.25s ease-out;
+}
+@keyframes fadeSlideIn {
+  from { opacity: 0; transform: translateY(6px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+/* ── Color indicators ── */
+.row-red td {
+  background-color: #f8d7da !important;
+  color: #58151c;
+}
+.row-yellow td {
+  background-color: #fff3cd !important;
+  color: #664d03;
+}
+.row-both td {
+  background-color: #f8d7da !important;  /* Red takes priority */
+  color: #58151c;
+}
+
+/* ── Legend ── */
+.legend-item {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 0.85rem;
+  font-weight: 500;
+}
+.legend-item span {
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  border-radius: 4px;
+  border: 1px solid rgba(0,0,0,0.15);
+  flex-shrink: 0;
+}
+.legend-red  span { background-color: #f8d7da; }
+.legend-yellow span { background-color: #fff3cd; }
+
+/* ── Table ── */
+.table thead th {
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+}
+.table tbody tr {
+  transition: opacity 0.15s;
+}
+
+/* ── Badges ── */
+.stock-badge {
+  font-size: 0.7rem;
+  vertical-align: middle;
+}
+
+/* ── Cards ── */
+.card {
+  border: none;
+  border-radius: 12px;
+}
+.card-header {
+  border-radius: 12px 12px 0 0 !important;
+}
+
+/* ── Toast ── */
+#appToast.toast-success { background-color: #198754; color: #fff; }
+#appToast.toast-error   { background-color: #dc3545; color: #fff; }
